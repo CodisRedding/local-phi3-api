@@ -1,0 +1,9 @@
+﻿torch>=2.9.0
+torchaudio>=2.9.0
+torchvision>=0.24.0
+transformers>=4.45.0
+accelerate>=0.34.0
+bitsandbytes>=0.44.0
+fastapi>=0.115.0
+uvicorn[standard]>=0.30.0
+pydantic>=2.0
